@@ -323,9 +323,6 @@ const QUIZ_DURATION = 300; // Change to desired seconds
 - Safari (latest)
 - Edge (latest)
 
-## License
-
-MIT License - feel free to use this project for personal or commercial purposes.
 
 ## Author
 
