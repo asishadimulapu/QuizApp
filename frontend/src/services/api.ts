@@ -1,4 +1,4 @@
-const API_BASE_URL = process.env.REACT_APP_API_URL || REACT_APP_API_URL=https://quiz-backend.onrender.com/api;
+const API_BASE_URL = process.env.REACT_APP_API_URL || REACT_APP_API_URL=https://quizapp-ebv7.onrender.com;
 
 export const fetchQuestions = async () => {
   const response = await fetch(`${API_BASE_URL}/quiz/questions`);
